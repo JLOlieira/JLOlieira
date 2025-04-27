@@ -13,3 +13,8 @@
 </ul>
 
  ##
+
+<div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLOlieira&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLOlieira&layout=compact&langs_count=8&theme=radical"/>
+</div>
