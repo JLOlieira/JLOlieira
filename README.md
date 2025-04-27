@@ -1,16 +1,15 @@
-## Hi there 👋
+## HI! I'm Lukas, welcome to my Github
 
-<!--
-**JLOlieira/JLOlieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://www.instagram.com/j.lukasoliveira?igsh=MWNvbnFpeWF4bDh5NA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-a92b83146?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>💻 Dev Front-end in building</li>
+  <li>🤓 Passionate about technology</li>
+</ul>
+
+ ##
