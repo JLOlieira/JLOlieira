@@ -8,7 +8,7 @@
 ##
 
 <ul>
-  <li>💻 Dev Front-end in building</li>
+  <li>💻 Front-end developer</li>
   <li>🤓 Passionate about technology</li>
 </ul>
 
