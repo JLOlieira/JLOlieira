@@ -1,21 +1,25 @@
-## HI! I'm Lukas, welcome to my Github
+# 👨‍💻 Lukas Oliveira
 
-<div>
-  <a href="https://www.instagram.com/j.lukasoliveira?igsh=MWNvbnFpeWF4bDh5NA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-a92b83146?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-</div>
+**Fullstack Developer (Junior) | JavaScript | React | Node.js**
 
-##
+---
 
-<ul>
-  <li>Full Stack developer</li>
-  <li>Passionate about technology</li>
-  <li>ADS 1/5</li>
-</ul>
+## 📌 Resumo
 
- ##
+Desenvolvedor Fullstack em formação, cursando Análise e Desenvolvimento de Sistemas. Experiência prática no desenvolvimento de aplicações web utilizando JavaScript no front-end e back-end
+---
 
-<div>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLOlieira&show_icons=true&theme=radical&count_private=true"/> -->
- <img src="https://github-readme-stats.vercel.app/api?username=JLOlieira&show_icons=true" />
-</div>
+## 🛠 Skills
+
+- **Front-end:** HTML, CSS, JavaScript, React  
+- **Back-end:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, REST APIs  
+
+---
+
+## 📬 Contato
+
+- Email: lukas.oliveira18@hotmail.com  
+- LinkedIn: https://www.linkedin.com/in/lukas-oliveira-a92b83146/
+
