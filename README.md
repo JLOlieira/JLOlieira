@@ -8,8 +8,9 @@
 ##
 
 <ul>
-  <li>💻 Front-end developer</li>
-  <li>🤓 Passionate about technology</li>
+  <li>Full Stack developer</li>
+  <li>Passionate about technology</li>
+  <li>ADS 1/5</li>
 </ul>
 
  ##
