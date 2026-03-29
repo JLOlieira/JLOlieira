@@ -17,5 +17,5 @@
 
 <div>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLOlieira&show_icons=true&theme=radical&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLOlieira&layout=compact&langs_count=8&theme=radical"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLOlieira)](https://github.com/JLOlieira/github-readme-stats)
 </div>
